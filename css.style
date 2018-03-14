@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>My Last Quarter Practical Exam</title>
+<meta name= "viewport" content= "width = device-width, initial-scale = 1">
+<link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+<link href="http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,500,400italic,700,700italic'
+rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//storage.googleapis.com/code.getmdl.io/1.0.1/material.teal-red.min.css"/>
+<script src="//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js"></script>
+</head>
+
+<body>
+<div class = "mdl-layout mdl-js-layout mdl-layout--fixed-drawer">
+<div class = "mdl-layout__drawer">
+<span class = "mdl-layout-title"></span>
+<nav class = "mdl-navigation>
+<a class = "mdl-navigation__link" href = "/">Home</a>
+<a class = "mdl-navigation__link" href = "/news">News</a>
+<a class = "mdl-navigation__link" href = "/about">About</a>
+<a class = "mdl-navigation__link" href = "/contact-us">Contact</a>
+</nav>
+</div>
+
+<main class = "mdl-layout__content">
+<div class ="page-content" style ="padding-left:100px;padding-top:50px;">
+<p></p>
+<h3>The Shopping List</h3>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+<button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored mdl-spinner"><i class ="material-icons">add</i></button>
+<div class="mdl-js-spinner is-active"></div>
+</div>
+</main>
+</div>
+<!-- I am awesome!-->
+</body>
+</html>
